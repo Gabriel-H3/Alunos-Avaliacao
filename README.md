@@ -30,13 +30,13 @@ Código simples feito pelo NetBeans que dará opções de: Cadastro Alunos, Cál
      2. Aprovados
   
         
-        Se o resultado da segunda operação for Aprovado, o nome do aluno vem para lista Aprovados. Nesta operação, mostra esses nomes dentro da lista.
+        Se o resultado da segunda operação for Aprovado, o nome do aluno vai para lista Aprovados. Nesta operação, mostra esses nomes dentro da lista.
 
         
      3. Reprovados
   
         
-        Se o resultado da segunda operação for Reprovado, o nome do aluno vem para lista Reprovados. Nesta operação, mostra esses nomes dentro da lista.
+        Se o resultado da segunda operação for Reprovado, o nome do aluno vai para lista Reprovados. Nesta operação, mostra esses nomes dentro da lista.
 
         
 5. Sair
