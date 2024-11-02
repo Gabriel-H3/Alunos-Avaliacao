@@ -11,10 +11,11 @@ Código simples feito pelo NetBeans que dará opções de: Cadastro Alunos, Cál
 
    
    Pergunta o nome do Aluno a ser avaliado, verifica se o nome existe na Lista e , caso exista, pergunta duas notas para uma média aritmética e nos retorna se o Aluno foi Aprovado ou Reprovado. No final, salva em uma Lista determinada para cada desempenho.
+   
    Basicamente media < 5 = Reprovado; media >= 5 = Aprovado.
 
    
-3. Lista dos Alunos/Aprovados/Reprovados
+4. Lista dos Alunos/Aprovados/Reprovados
 
    
    Nos traz 3 operações novas perguntado sobre qual Lista apresentar.
@@ -38,7 +39,7 @@ Código simples feito pelo NetBeans que dará opções de: Cadastro Alunos, Cál
         Se o resultado da segunda operação for Reprovado, o nome do aluno vem para lista Reprovados. Nesta operação, mostra esses nomes dentro da lista.
 
         
-4. Sair
+5. Sair
 
    
    Fecha o looping, assim finalizando o programa.
